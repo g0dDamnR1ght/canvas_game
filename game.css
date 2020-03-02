@@ -1,0 +1,17 @@
+*{
+
+	margin: 0;
+	padding: 0;
+}
+
+.game{
+	margin: 15px; 
+	font-family: Franklin Gothic Medium Cond;
+	font-size: 20px;
+}
+
+#myCanvas{
+	border: 1px solid black; 
+	background: url(img/back12.jpeg)  no-repeat;
+	background-size: 480px 320px; 
+}
